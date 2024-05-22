@@ -1,0 +1,6 @@
+MODULE.bazel
+MODULE.bazel.lock
+bazel-nodejs
+bazel-out
+node_modules
+package-lock.json
